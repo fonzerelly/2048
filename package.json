@@ -1,0 +1,23 @@
+{
+  "name": "2048",
+  "version": "1.0.0",
+  "description": "This is a simple fork of the 2048 game, that allows you to install it via npm ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielecirulli/2048.git"
+  },
+  "keywords": [
+    "2048",
+    "npm"
+  ],
+  "author": "Chistian Hörauf",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gabrielecirulli/2048/issues"
+  },
+  "homepage": "https://github.com/gabrielecirulli/2048#readme"
+}
